@@ -17,6 +17,20 @@ url: "http://angelinacalderon.com" # the base hostname & protocol for your site
 twitter_username: alinapaz
 github_username:  alinapaz
 
+permalink: "/:year/:month/:title"
+paginate: 10
+paginate_path: "/page/:num/"
+defaults:
+  - scope:
+      path: "page"
+    values:
+      sitemap: false
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      
 # Build settings
 markdown: kramdown
 kramdown:

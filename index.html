@@ -34,9 +34,9 @@ layout: no_navbar
 
       <div class="row">
         <div class="col-md-4">
-          <h4>The Sourcery</h4>
+          <h4>Mapbox</h4>
           <p>
-            Created account development processes, led technical recruiter training programs, and helped many startups grow. Acknowledged in <a href="http://www.apress.com/9781484211342">Building Great Software Engineering Teams</a>.
+            I manage Enterprise customer relationships, focus on customer retention and growth, enable customer expansion with our platform, and strategize across the company for customers’ goals. 
           </p>
         </div>
 
@@ -50,10 +50,21 @@ layout: no_navbar
         <div class="col-md-4">
           <h4>Musician</h4>
           <p>
-            A classically trained musician, I perform in the San Francisco Symphony Chorus and have years of experience teaching singing and choral music. Contact me for my performance resume, studio information and photos.
+            I perform in the San Francisco Symphony Chorus and have experience teaching singing and choral music. Get in touch with me for my performance resume or to request a voice lesson.
           </p>
         </div>
       </div>
+      {% if paginator.page != 1 %}
+    {% include pager.html %}
+  {% endif %}
+
+  {% for post in paginator.posts %}
+    {% include post.html post=post %}
+
+    {% if forloop.last == false %}<hr>{% endif %}
+  {% endfor %}
+
+  {% include pager.html %}
     </div>
   </div>
 </div>
