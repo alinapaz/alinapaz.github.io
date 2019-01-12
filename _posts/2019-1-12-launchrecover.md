@@ -14,5 +14,3 @@ Docking, however, was an adventure that was all mine. Like any bow seat in a dou
 At this stage the smart thing to do would have been to row back out, take a deep breath, and try again. But I was determined to stick the landing and we were so close. I got us out of the channel, took 2 full strokes so we were parallel to the dock, and the current pushed us to the other side of the dock (near Hyde Street Pier)! We (literally) weren't out of the water yet and I had to turn the boat around again! The students asked if I needed help. I said "no but this is a great lesson right here!"
 
 After righting the boat with some furious backwards strokes and a couple river turns, and tossing the painter to the dock (the main rope at the boat's bow), we were in position to come in and had a crew cheering us on. We pulled up, got out, and the boat its rowers lived to see another day.
-
-![image](angelina/workspace/alinapaz.github.io/images/ac10.png)
