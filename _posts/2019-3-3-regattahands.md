@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Regatta day"
-date:   2019-03-03 16:23:45 -0700
+date:   2019-03-03 14:57:45 -0700
 categories: rowing, bay, san francisco, teamwork
 ---
 
