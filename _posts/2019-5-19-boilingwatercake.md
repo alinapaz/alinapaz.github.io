@@ -13,7 +13,7 @@ Here's my take on the recipe -- it's from the Hershey's cocoa container:
 
 [Hershey's perfectly chocolate chocolate cake](https://www.hersheys.com/kitchens/en_ae/recipes/hersheys-perfectly-chocolate-chocolate-cake.html)
 
-### Ingredients
+Ingredients
 
 - 2 cups sugar
 - 1-3/4 cups all-purpose flour
@@ -28,7 +28,7 @@ Here's my take on the recipe -- it's from the Hershey's cocoa container:
 - 1/2ish teaspoon almond extract
 - 1 cup boiling water
 
-### Steps
+Steps
 
 1. Heat oven to 350°F. Grease two 9-inch round baking pans or 1 13x9x2 inch baking pan.
 
