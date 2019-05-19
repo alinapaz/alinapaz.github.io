@@ -7,7 +7,7 @@ categories: recuperate, chocolate, recipes
 
 My knee is mending slowly. I'm able to move enough to stumble through our apartment, shuffle between conference rooms at work, and take the stairs slowly to retrieve the Sunday paper. I spent all of yesterday at home reading about [fish](https://www.seaforager.com/book) and listening to weekend public radio.
 
-I also made a chocolate cake because a) it goes well with ice cream and b) adding the boiling water to the batter is one of the more satisfying actions one can take while baking -- the batter goes from looking like brownies to dark chocolate silk. 
+I also made a chocolate cake because a) it goes well with ice cream and b) adding the boiling water to the batter is one of the more satisfying actions one can take while baking -- the batter goes from looking like brownies to dark chocolate silk.
 
 Here's my take on the recipe -- it's from the Hershey's cocoa container:
 
@@ -32,12 +32,12 @@ Here's my take on the recipe -- it's from the Hershey's cocoa container:
 
 1. Heat oven to 350°F. Grease two 9-inch round baking pans or 1 13x9x2 inch baking pan.
 
-2. Stir together sugar, flour, cocoa, baking powder, baking soda and salt in large bowl.
+2. Stir together sugar, flour, cocoa, baking powder, baking soda and salt in a large bowl.
 
-3. Add eggs, milk, butter, vanilla and almond extracts; beat on medium speed of mixer 2 minutes.
+3. Add eggs, milk, butter, vanilla and almond extracts; beat on medium speed with a mixer for 2 minutes.
 
-4. Stir in boiling water (batter will be thin). Pour batter into prepared pans.
+4. Stir in boiling water (batter will be thin). Pour the batter into prepared pans.
 
-3. Bake 30 to 35 minutes (more like 40 min with the 13x9x2 pan) or until a knife inserted in center comes out clean. Cool 10 minutes; remove from pans to wire racks. Cool.
+3. Bake 30 to 35 minutes (more like 40 min with the 13x9x2 pan) or until a knife inserted in center comes out clean. Cool for ~10 minutes.
 
 4. Skip the frosting and serve with ice cream of your choice.
