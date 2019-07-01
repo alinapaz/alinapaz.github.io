@@ -10,12 +10,13 @@ In the past two blogposts I'd described a knee injury. I'd neglected to mention 
 So, 2 months of recuperation has meant 2 months of baking. The latest being
 [cookie mix](https://www.bettycrocker.com/products/cookiemix/chocolatechip). It wasn't bad. I probably won't make cookies from a mix again but found the process worth documenting.
 
-Steps to make cookies with a mix:
-
 Ingredients:
-- Chocolate chip cookie mix
-- 1 stick of butter
-- 1 egg
+
+1. Chocolate chip cookie mix
+
+2. 1 stick of butter
+
+3. 1 egg
 
 Steps:
 
