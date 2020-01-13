@@ -10,12 +10,12 @@ categories: self, 2010s, reviewing
 - Ben and I moved to San Francisco from Boston and now live much closer to family in the Bay Area and the West Coast. We also got married and are now planning steps to own property and have children.
 - Loved ones died: Jaime, Grandpa, Sandy. And new loved ones were born.
 - My parents got a new dog, Sunny.
-- We adopted two cats.
+- We lost one cat, took a year off from pets, then adopted two cats.
 
 ### Relationships:
 
 - I joined St. Francis Lutheran Church and, with it, several committees and Church Council.
-- I joined the South End Rowing Club. I'm grateful to a friend from high school who intro'd me open water swimming and the South End.
+- I joined the South End Rowing Club. I'm grateful to a friend from high school who intro'd me to open water swimming and the South End.
 - Some old friends from Boston, New Orleans, New York, Wisconsin visited us.
 - I made many new friends in SF through Code for America.
 
