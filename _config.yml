@@ -9,9 +9,8 @@
 title: Angelina Calderon
 email: angelina@angelinacalderon.com
 description: >
-  Angelina Calderon has over six years of experience growing businesses
-  by driving customer success, delivering innovative products
-  and services, and strengthening processes to improve product delivery.
+  Angelina Calderon grows businesses
+  by driving growth, accelerating product development and delivery, and by maximizing efficiency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://angelinacalderon.com" # the base hostname & protocol for your site
 twitter_username: alinapaz
@@ -30,7 +29,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      
+
 # Build settings
 markdown: kramdown
 kramdown:
